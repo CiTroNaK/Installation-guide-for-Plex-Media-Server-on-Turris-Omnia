@@ -7,7 +7,7 @@
 The installation consists of these steps:
 
 1. Create Debian LXC container
-2. Simple Debian setup
+2. Simple Debian configuration
 3. Install Plex Media Server
 4. Connect to CIFS
 
@@ -19,7 +19,11 @@ The installation consists of these steps:
 lxc-create -t download -n Debian
 ```
 
-## 2. Setup Debian
+- Distribution: **Debian**
+- Release: **Jessie**
+- Architecture: **armv7l**
+
+## 2. Simple Debian configuration
 
 Connect to container:
 
