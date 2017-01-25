@@ -5,6 +5,7 @@
 ## Overview
 
 The installation consists of these steps:
+
 1. Create Debian LXC container
 2. Simple Debian setup
 3. Install Plex Media Server
